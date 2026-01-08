@@ -1,0 +1,29 @@
+
+---
+
+# 3️⃣ Exemple de `docs/index.md`
+
+```md
+# eHealth Campaign ID – Documentation
+
+Bienvenue dans la documentation officielle d’eHealth Campaign ID.
+
+Ce projet est structuré autour de plusieurs modules :
+
+1. **Open Core** – composants open source :
+   - campaign-id-core
+   - campaign-id-connectors
+   - campaign-id-distribution
+   - campaign-id-antifraud (open)
+2. **Private Core / Closed** – composants propriétaires :
+   - campaign-id-secure-qr
+   - campaign-id-distribution-secure
+   - campaign-id-antifraud-secure
+
+---
+
+## Objectifs
+
+- Faciliter la mise en place des campagnes
+- Garantir la transparence pour les bailleurs et états
+- Maintenir la sécurité et la confidentialité des données sensibles

@@ -1,0 +1,14 @@
+site_name: eHealth Campaign ID Docs
+site_url: https://oomus-dpi.github.io/campaign-id-docs/
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Overview: overview.md
+  - Open Core: open-core.md
+  - Private / Closed: private-core.md
+  - Connectors: connectors.md
+  - Distribution: distribution.md
+  - AntiFraud: antifraud.md
+  - FAQ: faq.md
